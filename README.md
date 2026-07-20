@@ -278,10 +278,10 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
   <br/>
-  [![Rotaract](https://img.shields.io/badge/Leadership-Sergeant--at--Arms_%C2%B7_Rotaract_Club_of_BIT_Sindri-1a0533?style=for-the-badge&logo=rotaryinternational&logoColor=a855f7&color=a855f7)](#)
-</div>
+  <img src="https://img.shields.io/badge/Leadership-Sergeant--at--Arms_%C2%B7_Rotaract_Club_of_BIT_Sindri-1a0533?style=for-the-badge&logo=rotaryinternational&logoColor=a855f7&color=a855f7" alt="Rotaract Leadership"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:a855f7,100:06b6d4&height=2&width=100%" width="100%"/>
 
