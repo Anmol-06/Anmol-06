@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="auto" viewBox="0 0 850 330">
+  <defs>
+    <!-- Background Radial Glow -->
+    <radialGradient id="bgGlow" cx="50%" cy="30%" r="90%">
+      <stop offset="0%" stop-color="#1a0533"/>
+      <stop offset="100%" stop-color="#0a0118"/>
+    </radialGradient>
+
+    <!-- Cyberpunk Ring Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+
+    <!-- Scanline Texture Pattern -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#06b6d4" opacity="0.04"/>
+    </pattern>
+
+    <!-- Laser Sweep Glow Filter -->
+    <filter id="scanlineGlow" x="-10%" y="-100%" width="120%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Laser Sweep Beam Gradient -->
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#06b6d4" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#06b6d4" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#a855f7" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#0a0118" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Profile Circle Clip -->
+    <clipPath id="circleClip">
+      <circle cx="75" cy="75" r="68"/>
+    </clipPath>
+  </defs>
+
+  <!-- Terminal Card Background -->
+  <rect width="850" height="330" rx="14" fill="url(#bgGlow)" stroke="#a855f7" stroke-width="1.5" stroke-opacity="0.5"/>
+  <rect width="850" height="330" rx="14" fill="url(#scanlines)"/>
+
+  <!-- macOS Window Titlebar -->
+  <g id="titlebar">
+    <rect x="1" y="1" width="848" height="38" rx="13" fill="#1a0533" fill-opacity="0.9"/>
+    <!-- Traffic Light Buttons -->
+    <circle cx="24" cy="20" r="5" fill="#EF4444"/>
+    <circle cx="40" cy="20" r="5" fill="#F59E0B"/>
+    <circle cx="56" cy="20" r="5" fill="#10B981"/>
+    <!-- Terminal Title -->
+    <text x="425" y="24" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="12" fill="#8b83a8">anmol@bit-sindri: ~/about_me.py</text>
+  </g>
+
+  <!-- LEFT COLUMN: Pixelated Avatar with Cyberpunk Gradient Ring -->
+  <g transform="translate(35, 75)">
+    <circle cx="75" cy="75" r="72" fill="none" stroke="url(#borderGrad)" stroke-width="3.5" opacity="0.9"/>
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAACwCAIAAAAg1XMJAAAQT0lEQVR4nO2d2Y8cVxXGu7qqq/dlVo+38SSOnZUsjiKEWAVIVkiEEiGQeOI5/wBI8MJDeEbAC0ggIYEUAmKRokggESAJkAQTO7HjfcYZOzbj2Zzu8UyvtfDE/b6DZpRERKQ7+n5Pn1vd1VXtM3W/Ovfcc700TTNC/IfsB30CYrhQQAiDAkIYFBDCoIAQBgWEMCgghEEBIQwKCGFQQAiDAkIYFBDCoIAQBgWEMCgghEEBIQwKCGFQQAiDAkIYgg/6BP5XuCZ0o9V0+tLCgtM31lacjvuR01Mz09DTu+j13U7n84X37VxHAd0hhEEBIQwKCGEYSQ8RRfABJ/75itNP/exnTp8+e8bpUqnsdJDxcCAP/mOsUXf6viMPOv25o0edPnT4Lqf9YCR/undEdwhhUEAIgwJCGLxRWdvZ7/edfvaZ3zn90x//0OnmjQ2nl1ZXnfZ93+lKueJ0sYAcQ9aHtygVik7vmppw+rNHH3b6kS8+7vT4BN4z6ugOIQwKCGFQQAjDUHsI9g1PP/Vzp3/6kx873e10nI7ixOlOt+d0rwcdJXhPQN6ivdWmz3ZxEh68RdbD388jjz7i9JPfedLpvftmd7qckUB3CGFQQAiDAkIYhjoh/+Lzf3H6B9//ntPtzS2nwyDndD8aOJ0lf5ALQ6f9JMZ7YsyJ1EN4hWKKz94gb9Fsw9P88pe/cvrQrfANX//Wt50ORnC+Q3cIYVBACIMCQhiGbpBrtzFmP/30U05fWnjT6TAHT9CgOoY0g5wK5x5S8g0lD3mIg1Nj0PsOOF0tYi5jtYX5kZfP4xwuXr/h9MrS8rbfNYQ/7zuiO4QwKCCEQQEhDEM3yK2voY6B11YMqI4ypbrIFo3xaYL3+Cm8wp56yemPzGItxp0H9jk9PdnAZwMc/8AAHmX3RNXpP7yGc6s38NmMN9p/Y6N99uJ9RwEhDAoIYRg6D7G2tu70tWvXnB4MME8x6ENXaLyfqmD9xd4J5BIevA05htvn9js91qg5nS8gtxFTLmGL6i18H+85MIPzvDh/zukO5VFydfiPUUF3CGFQQAiDAkIYhs5D8Pi9sbnpdEDrJnbX4Q/umN3r9P6pSafHKlhzsX9myunpSYzrQQ5/D0ur6CGxeP1tp7NUb1GvIg+xa2Lc6deuw0+0O/AQNXkIMeooIIRBASEMQ+chCrTe0g9Q2zhRxeufuf+Q00Wqjdhqo9byzPJ1p1dXoNPBnNONOvIWfz/+htPnr7WczhfxvbfMYA1nWEEOI6b1IHE8vOtc3g26QwiDAkIYFBDCMHQeokz9oLg3VD6Hcfr2/ahp6NG6iaUY8R3k8f5SuUgatREzu9CPslF5y+mpCeQeAprj8GmdZymfJ433xzHmWUYR3SGEQQEhDAoIYRg6D1Gn/P++3RjjW8sYm8fHsJ5i+sCc0wdaqF3YaqPHwxjVVM5OYw5iijzEkbvRg3LuJnxJQmmFsXGcW3uAOZfLNzDncvPyeafTvajZ9Git6TCjO4QwKCCEQQEhDEPnIdrXLjh99BbMF7zhNZzOB8gNHJpFb4YwxLwD98PeaNHcBOUM8iFyCVPUa3JyHLpKdZqeB99waQnzIw/MoE6i+ddncA73P+R0rgrfM8zoDiEMCghhUEAIw1B4iJR6R66f+YfTD+1FjeSeKnxDkMIfdNrIAeRyeNZPqH8U94q4MH/Jaa7f9Kj2Ypx6TvS2NrZ9f2cLtReTBXiR2hj8B9djjgq6QwiDAkIYFBDCMBQegrfBqjawhiIqIAdQ537VtEZjdRX9ndrkJwpFzF9kqF/k1gB+pbUBH9AYQy4hpXmH66trOD6dQ0B7alQp/1GcwTqRbDh6e37qDiEMCghhUEAIw1B4CI/6Mk3e81GnW/OnnZ4u4ll/ZQNzE70B+k9nuzhOp4+cwWYHupyHL8nVkScgG5NZXW863Y+pV0QPNRkTtYbTswcPOj1+J/b89Pyh+HnfE7pDCIMCQhgUEMIwdINcdc+c07s/9QWn109ijsNrUx/rCLkEXlXZ6dCeW5u0x3cW+YbER93lahu+ZL0LHZbgM7I0VzK271anZz+G/cEbB+/JjDK6QwiDAkIYFBDCMNT7dnKdRKeJOYVr82ecPvt77KmR91ADUSwi35BEuMaNddQ38NqNhGspAvyd3KS+k0EZ/uPRJ77p9J5bb3+nSxkZdIcQBgWEMCgghGHo8hCMl0W8lsbRE2LuPqzXmD/2gtM3r2JdZT/CHERMekDHHJBviKhectDp0uvwMdU66iUbU1gX+mFCdwhhUEAIgwJCGIbaQ+xEQGsyK9Tj4eqZ405PTaIPREi9Jrsb8Ac93seLCiIG9I92H++ZpHUWWS6g+BChO4QwKCCEQQEhDCPpITzqF1lrwCsMaN/OS1eWnI7JE2y00YdqQPmJXA4/RUK5hzLNXwQ07RNTLeeHCd0hhEEBIQwKCGEYSQ/BFEoVp8u010Y0QK1ll2ow+z14iN4AnmMQUb1kHXMljQr1uqb6zc7GDXzvGPpYjDq6QwiDAkIYFBDCMPIewvMw9hdCXE5chC7kaJ+LEHqL1m74OcxTVGnPz0IOyYdkcNPphbOncA4V9LSYmBiNfpQ7oTuEMCgghEEBIQwj6SFWlledfuvKv5zOUa/JYgjdp1WfhRrWa1RoP63OAL0f/BRzHNmUjtPH/MXZ8/NO/+aVa05/6bGHnb7zIPbLKJfhS7Le8BZT6A4hDAoIYVBACMPQeQjeR7u1gef+cxcWnf71b591+q4pXEKNPhvQ+ouEelj1yAfEVC+ZpVoHn3RE7+lSDWalgDqMY6+fdHqB9gY7fOt+nOfBPU7fewe8xb7dmAepVdH7MviA9ujSHUIYFBDCoIAQhv+rh4ipVvHtJvzB+Xnsu3385EWnT53Bs/7ly6iRbG+iFuHIlz/u9OpF9HKoUZtpn3pj52hsTjycT476YXPHjDb1kJi4DXt7+mV4iD75jJW1dXy2i9dPnV10+tk/4eR2TWFvjoOzWL9612H4j8O3YO3J9ARqNfLh+78fh+4QwqCAEAYFhDC8bx6CW1V1uhh3Fy5jP4tXXsOenCdOv+n0lcuYC9ikPSySGM/0gz5qF3gmYHzmFqdvljEG97Ywx1Er035dNOyGnKugC+C+FLk81pHe88nPO/3CaVwX96II6Dx7XXiaMIdzuLkZk8b1LizCJ/35JfTRGqe9PA4ewDU+eM+c03ffhtzG9GQD5597b//FukMIgwJCGBQQwvCePURE+0esrjWdfv0MPMHLJ5A/OL+IPbKbLeyJFVH9QTzAuJtkkBtgt5DNIn8QZHHalRqe4w/fi70qmmex/qJapNwDjfHceyqgflNBiPE+v+cOp6fn0Md6+XmM8RmaK6GUR8aja4noGnv0vZz04H1D2MdsdXAtSyvIwRw/iT1Id40jP3HHoRmnj376iNO3zSGf4e1Qk6E7hDAoIIRBASEM78pDXF1CDeMzfzzm9KunMIYtrzad7lBuP6EahSSBb/DouZ9zAJwo8LL4LPd0Cnwc38/jEubuh4dYaWN+JKQe2N0O+RiqjchT36pcGXWXYw98At8VYi9QnuPgWks/gP/IRXi924UPaNO+4SHlOXKUq/DJM2UG9N9E61Da9J63m+jhfWHxqtNn5684/Y0nvuT07N5dme3QHUIYFBDCoIAQhh09xNqNptPf/dEvnD5xbpnehXji/ESG1jXwnhfsJzIZfh3egsfjkNZbRtTTKVfE8fM01CYRjEaxjpx/0MOzO9cQBD7OP6Sxf1DCZ69fgn+aKTfxXXSN3G+qu4U6j+4mxvVWC/t4lSrwKJz/yCRUk5HAV0UZ/D4Jve5TriJLdR4DyvGcPI1zfu7Ffzr9ta9gP7MsGTTdIYRBASEMCghhMB6C99967gWMNy8dO+e0H1CxIs0pJCk8gWeqEimBkGyfk0hT6jlNfqJHmg/jU/3j0umzTscevndyCjWJyQrG9XwOz/0BTTz4BcyJJCXs5R1dXXF64VXsHXqT1ox4pn8lXRfvtVGjfpc0V8IXllCfTc7NsD8zPoz2BosGOE7fzBPBWzz/9xNOP/bwJ53mnlq6QwiDAkIYFBDCYDxEt4s5+7+9gvWKvR5eD00MYcyLafyjaf2Mn8V4mdK+Vvwcz7URKXsRes7mWoFeD8/9m10c565773e6HFK9JOUe4jXUdcYx1WEkGIOrM/AfFQ+e48p5+JW1Vay/sHufbj9Hk5q+2vz69r4hId8Qc46HvFRMvTV5zUtENR/sM+YXMK9xaRF1rA/eJw8hdkABIQwKCGEwHmJpGftrX1xAjWQcUR2izzGUpfeQD+C6yBxpquPrU61ATOMo1/pxzwb2JaU8+iiMzWA9QlDFekuunQx2343ToXzA1iKey8Nx9G+IC/Acm31c19455CeKxdM4Tx+1Dqa0w8fPm81yzgDXy79hlgxCv496i5jnL3ht6g65CvZ8mRTXsrGJWpBXT8IPHbkXdaO6QwiDAkIYFBDCYDzEhYuokVy6jhx+m/ITnCcIczSvQa/zQJrG1MeJxj+f1yBQLSEvF+Cne47cQgG5Ad5zK6RekEERY2dvo0mfRk+ncPYhvFxDj+q3rmJdaJV8SViCd+H6RyaK8Dvk81RfSbWisakLAampM91+7QZvMMrzGn1au9GjtbU+eb40g2Meew3rSr76+FGndYcQBgWEMCgghCHgPSqPn8S4srWF3gY8v+77GAvN2gEDrxtMt305628fizutOeRaimoVuYRyGXtuJTE9x9N4nBuDPygEtK93E4d/+zrqG8IAuf3aGOU2fJxDnPKaEarNpB7bXPPo0d8ez+mkxiDQ6+n2NSXGZ9BxOlTLGQ1oHoTWfWTpHBYWsG7l2r+W6T1CEAoIYVBACEOwSV7h3MXLTg94XSLlxnNUkxia/MH2Yz+3QggpD+GRDjLsRWi8pDE1ocLFGu15kS9ivWVI+QmfnvsTyoX0ulhXOdjEdTXGsRYjyeP4RcptrLcw19OlOY6UvVFm+9+BvQL/tkyS8ppY2rODvBrXRrCHiOmY7GmMF6E5kZU1rFU5N495K90hhEEBIQwKCGEIVqk2cIn6QPBYyOsLeO1loYAxjOfpWXt0HB7/eJzzA863Uy0k1wF4+Gy9htxDQGs0TO0F2RJ+T78LXRpHLUWW9g1v01rNLOct2vAfPGeRmh6X9LuZeRmc/4DqSziXw56Ah35zfLz8X3WX2/eosPMj+Gy7i/efOi8PIXZAASEMCghhCBZp38tWEzV3AY1tacS9HCixQOzkIdgHJDusL4jMWMv/wGezVKc5WW84XSwh31AgHVENR7uFWgGfzEVYxFgb8dxHnuYgyItwPUdIe37yPEXM4z2vlSB/0De9rd55zwueb7L5HnxXHFENBOWK+Dfk2lWumVhcRAzoDiEMCghhUEAIQ3BxftH9Y4t6LxbyeC6v1zAOmb0haK9tXneQ7tCDkusx4z6Ni3TMeIdn7gKt1azwPtr0rtYaPNCAriUT0zwI742Z26FGgbxCj7xIgeZN+Np5WOc+Gdwnio8Tcw4j3N4z7QT/tnG6/VyG/f23r3WNyUO0aT5LdwhhUEAIgwJCGP4NTt6pP1HGCioAAAAASUVORK5CYII=" x="7" y="7" width="136" height="136" clip-path="url(#circleClip)" style="image-rendering: pixelated; image-rendering: crisp-edges;"/>
+  </g>
+
+  <!-- RIGHT COLUMN: Python Syntax Highlighted Code -->
+  <text font-family="'JetBrains Mono', 'Fira Code', 'Courier New', Consolas, monospace" font-size="13" fill="#e0d9ff" xml:space="preserve">
+    <tspan x="220" y="80"><tspan fill="#a855f7" font-weight="bold">from</tspan> dataclasses <tspan fill="#a855f7" font-weight="bold">import</tspan> dataclass</tspan>
+    
+    <tspan x="220" y="106"><tspan fill="#06b6d4" font-weight="bold">@dataclass</tspan></tspan>
+    <tspan x="220" y="128"><tspan fill="#a855f7" font-weight="bold">class</tspan> <tspan fill="#06b6d4" font-weight="bold">Anmol</tspan>:</tspan>
+    <tspan x="220" y="150">    <tspan fill="#a855f7" font-weight="bold">def</tspan> <tspan fill="#e0d9ff">__init__</tspan>(<tspan fill="#a855f7">self</tspan>):</tspan>
+    <tspan x="220" y="174">        <tspan fill="#a855f7">self</tspan>.<tspan fill="#06b6d4">name</tspan>       = <tspan fill="#e0d9ff">&quot;Anmol Kumar Gorain&quot;</tspan></tspan>
+    <tspan x="220" y="196">        <tspan fill="#a855f7">self</tspan>.<tspan fill="#06b6d4">role</tspan>       = <tspan fill="#e0d9ff">&quot;Systems Engineer &amp; Automated Systems Dev&quot;</tspan></tspan>
+    <tspan x="220" y="218">        <tspan fill="#a855f7">self</tspan>.<tspan fill="#06b6d4">education</tspan>  = <tspan fill="#e0d9ff">&quot;B.Tech CSE, BIT Sindri (Class of 2028)&quot;</tspan></tspan>
+    <tspan x="220" y="240">        <tspan fill="#a855f7">self</tspan>.<tspan fill="#06b6d4">location</tspan>   = <tspan fill="#e0d9ff">&quot;Bokaro Steel City, Jharkhand, India 🇮🇳&quot;</tspan></tspan>
+    <tspan x="220" y="262">        <tspan fill="#a855f7">self</tspan>.<tspan fill="#06b6d4">focus</tspan>      = <tspan fill="#8b83a8">[</tspan><tspan fill="#e0d9ff">&quot;Computer Vision &amp; DL&quot;</tspan>, <tspan fill="#e0d9ff">&quot;GenAI&quot;</tspan>, <tspan fill="#e0d9ff">&quot;Intelligent Systems&quot;</tspan><tspan fill="#8b83a8">]</tspan></tspan>
+    <tspan x="220" y="295"><tspan fill="#8b83a8"># Building intelligent, end-to-end automated systems</tspan></tspan>
+  </text>
+
+  <!-- Top-to-Bottom Continuous Sweeping CRT Scanline -->
+  <rect x="0" y="0" width="850" height="10" fill="url(#scanGrad)" filter="url(#scanlineGlow)">
+    <animate
+      attributeName="y"
+      values="-10;330;-10"
+      keyTimes="0;0.5;1"
+      dur="3.6s"
+      repeatCount="indefinite"
+      calcMode="linear"/>
+    <animate
+      attributeName="opacity"
+      values="0.2;0.8;0.2"
+      keyTimes="0;0.5;1"
+      dur="3.6s"
+      repeatCount="indefinite"/>
+  </rect>
+</svg>

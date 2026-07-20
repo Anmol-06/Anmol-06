@@ -60,6 +60,12 @@ Currently focused on:
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-06/Anmol-06/main/about-terminal.svg" width="100%" alt="About Terminal"/>
+</div>
+
+<br/>
+
 I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between training deep learning models and wiring together the full-stack systems that serve them. My work sits at the intersection of computer vision, generative AI, and production-grade automation — I care less about chasing the latest framework and more about understanding *why* a system works so I can make it work better. When I'm not buried in code, I'm usually breaking down ML papers or figuring out how to squeeze one more FPS out of an inference pipeline from Bokaro Steel City.
 
 ---
