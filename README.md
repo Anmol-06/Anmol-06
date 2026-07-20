@@ -72,39 +72,29 @@ I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between
 
 <div align="center">
 
-**`// Languages`**
+**🐍 Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,bash&theme=dark&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,bash&theme=dark" height="38" alt="Languages"/>
 
-<br/>
+**🎨 Frontend**
 
-**`// Frontend`**
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="38" alt="Frontend"/>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs&theme=dark&perline=6)](https://skillicons.dev)
+**⚙️ Backend**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask&theme=dark" height="38" alt="Backend"/>
 
-**`// Backend`**
+**🧠 AI · ML**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,flask&theme=dark&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="38" alt="AI and ML"/>
 
-<br/>
+**🗄️ Databases**
 
-**`// AI · ML`**
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="38" alt="Databases"/>
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=6)](https://skillicons.dev)
+**☁️ DevOps · Infra**
 
-<br/>
-
-**`// Databases`**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark&perline=6)](https://skillicons.dev)
-
-<br/>
-
-**`// DevOps · Infra`**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,aws&theme=dark&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" height="38" alt="DevOps and Infra"/>
 
 </div>
 
@@ -218,16 +208,16 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 
 ## 🏆 `~/achievements`
 
-### `// Certifications & Coursework`
+### 🎓 Certifications & Coursework
 - 🎓 **Java Data Structures & Algorithms** — Udemy *(Completed)*
 - 🧠 **AI/ML & Deep Learning Bootcamp** — Udemy *(In Progress)*
 - 📐 **Mathematical Foundations of Machine Learning** — NPTEL
 
-### `// Internships`
+### 💼 Internship
 - ☁️ **AI Automation & Cloud Computing Intern** — IBM SkillsBuild × BharatCares (AICTE)
   - *Track: Generative AI & Cloud Computing*
 
-### `// Competitions & Hackathons`
+### 🏁 Competitions & Hackathons
 - 🇮🇳 **Participant** — Smart India Hackathon (SIH) 2026
 - 🛡️ **Participant** — Delhi Police Cybersecurity Hackathon
 
