@@ -183,5 +183,59 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 
 ---
 
-<!-- ━━━━━━━━━━━  END OF PART 2 — Sections below reserved for Parts 3-4  ━━━━━━━━━━━ -->
-<!-- PART 4: 📊 GitHub Stats · 🏆 Highlights · Footer                                 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- PART 3 — GITHUB STATS & STREAK                                       -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📊 `~/github-stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anmol-06&show_icons=true&bg_color=1a0533&title_color=a855f7&icon_color=06b6d4&text_color=e0d9ff&border_color=a855f7&hide_border=false" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anmol-06&layout=compact&langs_count=8&bg_color=1a0533&title_color=a855f7&icon_color=06b6d4&text_color=e0d9ff&border_color=a855f7&hide_border=false" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Anmol-06&background=1a0533&ring=a855f7&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=e0d9ff&currStreakNum=e0d9ff&sideNums=e0d9ff&dates=8b83a8&border=a855f7&hide_border=false" height="165" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmol-06/Anmol-06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anmol-06/Anmol-06/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Anmol-06/Anmol-06/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- PART 3 — ACHIEVEMENTS & CERTIFICATIONS                               -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🏆 `~/achievements`
+
+### `// Certifications & Coursework`
+- 🎓 **Java Data Structures & Algorithms** — Udemy *(Completed)*
+- 🧠 **AI/ML & Deep Learning Bootcamp** — Udemy *(In Progress)*
+- 📐 **Mathematical Foundations of Machine Learning** — NPTEL
+
+### `// Internships`
+- ☁️ **AI Automation & Cloud Computing Intern** — IBM SkillsBuild × BharatCares (AICTE)
+  - *Track: Generative AI & Cloud Computing*
+
+### `// Competitions & Hackathons`
+- 🇮🇳 **Participant** — Smart India Hackathon (SIH) 2026
+- 🛡️ **Participant** — Delhi Police Cybersecurity Hackathon
+
+<br/>
+
+<sub><font color="#8b83a8">Sergeant-at-Arms, Rotaract Club of BIT Sindri</font></sub>
+
+---
+
+<!-- ━━━━━━━━━━━  END OF PART 3 — Reserved for Part 4 (Beyond Code & Footer)  ━━━━━━━━━━━ -->
+<!-- PART 4: 🎨 Beyond Code · 🌐 Connect · Footer Banner                                   -->
