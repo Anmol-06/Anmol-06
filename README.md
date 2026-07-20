@@ -1,11 +1,11 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  ANMOL KUMAR GORAIN — GitHub Profile README                         ║ -->
-<!-- ║  Design System: Cyberpunk / Neon Terminal                         ║ -->
-<!-- ║  Palette: #0a0118 · #a855f7 · #06b6d4 · #e0d9ff · #8b83a8       ║ -->
+<!-- ║  Design: Cyberpunk / Neon Terminal                                   ║ -->
+<!-- ║  Palette: #0a0118 · #a855f7 · #06b6d4 · #e0d9ff · #8b83a8          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- HERO BANNER BLOCK                                                    -->
+<!-- HERO BANNER                                                            -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
@@ -14,17 +14,9 @@
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- TYPING INTRO                                                         -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=%F0%9F%94%A7+Systems+Engineer+%C2%B7+Automated+Systems+Developer+%C2%B7+Full-Stack+Dev;%F0%9F%8E%93+B.Tech+CSE+%40+BIT+Sindri+%E2%80%94+Class+of+2028;%F0%9F%A7%A0+Computer+Vision+%26+Deep+Learning;%E2%9A%A1+Generative+AI+%2F+Applied+ML+Architectures;%F0%9F%9B%A0%EF%B8%8F+Building+End-to-End+Intelligent+Systems)](https://github.com/Anmol-06)
 
 <br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- SOCIAL BADGES                                                        -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://www.linkedin.com/in/anmol-kumar-gorain/)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0533?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:anmolkumargorain06@gmail.com)
@@ -33,16 +25,16 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:a855f7,100:1a0533&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ABOUT ME                                                             -->
+<!-- ABOUT ME                                                               -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## ⚡ `~/about-me`
+## ⚡ About Me
 
 <details>
-<summary>📋 <b>Copy About Me</b></summary>
+<summary>📋 <b>Copy plain-text bio</b></summary>
 
 ```text
 Name:       Anmol Kumar Gorain
@@ -61,56 +53,56 @@ Currently focused on:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-06/Anmol-06/main/about-terminal.svg" width="100%" alt="About Terminal"/>
+  <img src="https://raw.githubusercontent.com/Anmol-06/Anmol-06/main/about-terminal.svg" width="100%" alt="About Me Terminal Card"/>
 </div>
 
 <br/>
 
 I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between training deep learning models and wiring together the full-stack systems that serve them. My work sits at the intersection of computer vision, generative AI, and production-grade automation — I care less about chasing the latest framework and more about understanding *why* a system works so I can make it work better. When I'm not buried in code, I'm usually breaking down ML papers or figuring out how to squeeze one more FPS out of an inference pipeline from Bokaro Steel City.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:a855f7,100:06b6d4&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- TECH ARSENAL                                                         -->
+<!-- TECH ARSENAL                                                           -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🛠️ `~/tech-stack`
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **🐍 Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,bash&theme=dark" height="38" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,bash&theme=dark" height="40" alt="Languages"/>
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="38" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" height="40" alt="Frontend"/>
 
 **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask&theme=dark" height="38" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,nginx&theme=dark" height="40" alt="Backend"/>
 
 **🧠 AI · ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="38" alt="AI and ML"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="40" alt="AI and ML"/>
 
 **🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="38" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" height="40" alt="Databases"/>
 
 **☁️ DevOps · Infra**
 
-<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" height="38" alt="DevOps and Infra"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=dark" height="40" alt="DevOps and Infra"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:a855f7,100:1a0533&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- FLAGSHIP PROJECTS                                                    -->
+<!-- FLAGSHIP PROJECTS                                                      -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🚀 `~/projects`
+## 🚀 Projects
 
 <table>
 <tr>
@@ -177,13 +169,13 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:a855f7,100:06b6d4&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- GITHUB STATS & STREAK                                                -->
+<!-- GITHUB STATS & STREAK                                                  -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📊 `~/github-stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -206,13 +198,13 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:a855f7,100:1a0533&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ACHIEVEMENTS & CERTIFICATIONS                                        -->
+<!-- ACHIEVEMENTS & CERTIFICATIONS                                          -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🏆 `~/achievements`
+## 🏆 Achievements
 
 ### 🎓 Certifications & Coursework
 - 🎓 **Java Data Structures & Algorithms** — Udemy *(Completed)*
@@ -231,22 +223,22 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 
 <sub><font color="#8b83a8">Sergeant-at-Arms, Rotaract Club of BIT Sindri</font></sub>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:a855f7,100:06b6d4&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- BEYOND CODE                                                          -->
+<!-- BEYOND CODE                                                            -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🎬 `~/beyond-code`
+## 🎬 Beyond Code
 
 > 🎞️ **Video Editing & Media Creation**
 >
 > Outside of systems engineering and machine learning, I edit video on the side. I spent about three months freelancing video editing work for **Uni Discovery**, producing visual content and refining video motion workflows alongside my software projects.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:a855f7,100:1a0533&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- CLOSING & FOOTER                                                     -->
+<!-- CLOSING & FOOTER                                                       -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
@@ -255,7 +247,7 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
   <img src="https://komarev.com/ghpvc/?username=Anmol-06&color=a855f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-*“Building intelligent systems from first principles — understanding why, not just what.”*
+*"Building intelligent systems from first principles — understanding why, not just what."*
 
 <br/>
 
