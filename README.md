@@ -28,7 +28,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:a855f7,100:1a0533&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ABOUT ME                                                               -->
+<!-- ABOUT ME                                                             -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## ⚡ About Me
@@ -58,7 +58,11 @@ Currently focused on:
 
 <br/>
 
-I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between training deep learning models and wiring together the full-stack systems that serve them. My work sits at the intersection of computer vision, generative AI, and production-grade automation — I care less about chasing the latest framework and more about understanding *why* a system works so I can make it work better. When I'm not buried in code, I'm usually breaking down ML papers or figuring out how to squeeze one more FPS out of an inference pipeline from Bokaro Steel City.
+> 💡 **Background & Philosophy**
+> 
+> I'm Anmol — a Computer Science undergrad at **BIT Sindri** who splits time between training deep learning models and wiring together the full-stack systems that serve them. 
+> 
+> My work sits at the intersection of **computer vision**, **generative AI**, and **production-grade automation** — I care less about chasing the latest framework and more about understanding *why* a system works so I can make it work better. When I'm not buried in code, I'm usually breaking down ML papers or figuring out how to squeeze one more FPS out of an inference pipeline from Bokaro Steel City.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:a855f7,100:06b6d4&height=2&width=100%" width="100%"/>
 
@@ -108,12 +112,16 @@ I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Devaster &nbsp; [![Favorite](https://img.shields.io/badge/%E2%AD%90_Favorite-1a0533?style=flat-square&logoColor=a855f7&color=1a0533)](https://github.com/Anmol-06/Devaster---Device-Master)
-**Telegram-Based AI RMM**
+<br/>
 
-> Turn your Telegram chat into a remote console for Windows, macOS, and Linux devices.
+<img src="https://img.shields.io/badge/🤖_DEVASTER-AI_RMM_System-a855f7?style=for-the-badge&logo=telegram&logoColor=fff" height="28"/>
+<img src="https://img.shields.io/badge/%E2%AD%90_FAVORITE-1a0533?style=for-the-badge&logoColor=a855f7&color=a855f7" height="28"/>
 
-Cross-platform Remote Monitoring & Management bot with real-time telemetry — CPU/GPU thermals, RAM, disk I/O, battery health, network stats. Secure 6-digit multi-device pairing with OS-level persistence (`systemd` / `launchd`). Free AI APIs (Gemini / Groq) translate raw hardware data into natural-language insights. Remote command execution — kill processes, find/delete files — all via chat.
+> *Cross-Platform Telegram Remote Console for Windows, macOS & Linux*
+
+- 🖥️ **Hardware Telemetry**: Real-time CPU/GPU thermals, RAM, disk I/O, battery & network stats.
+- 🔐 **OS Persistence**: Secure 6-digit device pairing with `systemd` / `launchd` daemon integration.
+- 🧠 **AI Remote Shell**: Gemini & Groq APIs translate raw hardware metrics into natural language & execute chat commands.
 
 <br/>
 
@@ -130,12 +138,16 @@ Cross-platform Remote Monitoring & Management bot with real-time telemetry — C
 </td>
 <td width="50%" valign="top">
 
-### 🎓 TutorX &nbsp; [![Favorite](https://img.shields.io/badge/%E2%AD%90_Favorite-1a0533?style=flat-square&logoColor=a855f7&color=1a0533)](https://github.com/Anmol-06/TutorX)
-**AI-Powered Adaptive Learning Platform**
+<br/>
 
-> Full-stack AI educational web app delivering personalized, textbook-depth lessons on any topic.
+<img src="https://img.shields.io/badge/🎓_TUTORX-AI_EdTech_App-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=fff" height="28"/>
+<img src="https://img.shields.io/badge/%E2%AD%90_FAVORITE-1a0533?style=for-the-badge&logoColor=a855f7&color=a855f7" height="28"/>
 
-Decomposes syllabi into structured unit → topic → subtopic trees via Gemini. Generates deep lesson content — explanations, LaTeX equations, Mermaid diagrams, quizzes, mnemonics. Supports re-voicing content into different learning styles (Standard / Gen-Z / ELI5 / Exam-focused). Streams responses in real time via SSE. JWT + Google OAuth auth with bcrypt hashing.
+> *Full-Stack Adaptive Learning Platform with Real-Time Lesson Streaming*
+
+- 🌳 **Syllabus Decomposition**: Gemini decomposes complex topics into structured unit → subtopic learning trees.
+- 📚 **Rich Content Stream**: Real-time SSE streaming of LaTeX equations, Mermaid diagrams, quizzes & mnemonics.
+- 🎭 **Adaptive Personas**: Re-voices content into Gen-Z, ELI5, Exam-focused, or Standard teaching styles.
 
 <br/>
 
@@ -158,12 +170,14 @@ Decomposes syllabi into structured unit → topic → subtopic trees via Gemini.
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 Link Shortener
-**Full-Stack URL Shortener Web App**
+<br/>
 
-> Optimized, trackable short-codes with strong backend routing logic — deployed on Railway.
+<img src="https://img.shields.io/badge/🔗_LINK_SHORTENER-Web_Utility-a855f7?style=for-the-badge&logo=railway&logoColor=fff" height="28"/>
 
-Full-stack URL shortener for creating clean, shareable short-codes. Built with solid backend routing and a lightweight frontend. Deployed and live on Railway.
+> *Full-Stack URL Shortener Web Application Live on Railway*
+
+- ⚡ **Optimized Short-Codes**: Clean custom short-code generation with fast backend routing logic.
+- 📊 **Trackable & Production-Ready**: Lightweight frontend paired with solid Python backend routing, live on Railway.
 
 <br/>
 
