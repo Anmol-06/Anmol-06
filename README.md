@@ -108,30 +108,50 @@ I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Devaster &nbsp;`·` &nbsp;⭐ *Favorite*
+### 🤖 Devaster &nbsp; [![Favorite](https://img.shields.io/badge/%E2%AD%90_Favorite-1a0533?style=flat-square&logoColor=a855f7&color=1a0533)](https://github.com/Anmol-06/Devaster---Device-Master)
 **Telegram-Based AI RMM**
 
 > Turn your Telegram chat into a remote console for Windows, macOS, and Linux devices.
 
 Cross-platform Remote Monitoring & Management bot with real-time telemetry — CPU/GPU thermals, RAM, disk I/O, battery health, network stats. Secure 6-digit multi-device pairing with OS-level persistence (`systemd` / `launchd`). Free AI APIs (Gemini / Groq) translate raw hardware data into natural-language insights. Remote command execution — kill processes, find/delete files — all via chat.
 
-`Python` `Gemini API` `Groq API` `Telegram Bot API` `Shell`
+<br/>
 
-[→ Repo](https://github.com/Anmol-06/Devaster---Device-Master)
+[![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)](#)
+[![Gemini](https://img.shields.io/badge/Gemini_API-1a0533?style=flat-square&logo=googlegemini&logoColor=06b6d4)](#)
+[![Groq](https://img.shields.io/badge/Groq_API-1a0533?style=flat-square&logo=fastapi&logoColor=a855f7)](#)
+[![Telegram](https://img.shields.io/badge/Telegram_Bot_API-1a0533?style=flat-square&logo=telegram&logoColor=06b6d4)](#)
+[![Shell](https://img.shields.io/badge/Shell-1a0533?style=flat-square&logo=gnubash&logoColor=a855f7)](#)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%86%92-1a0533?style=for-the-badge&logo=github&logoColor=06b6d4&labelColor=1a0533&color=a855f7)](https://github.com/Anmol-06/Devaster---Device-Master)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 TutorX &nbsp;`·` &nbsp;⭐ *Favorite*
+### 🎓 TutorX &nbsp; [![Favorite](https://img.shields.io/badge/%E2%AD%90_Favorite-1a0533?style=flat-square&logoColor=a855f7&color=1a0533)](https://github.com/Anmol-06/TutorX)
 **AI-Powered Adaptive Learning Platform**
 
 > Full-stack AI educational web app delivering personalized, textbook-depth lessons on any topic.
 
 Decomposes syllabi into structured unit → topic → subtopic trees via Gemini. Generates deep lesson content — explanations, LaTeX equations, Mermaid diagrams, quizzes, mnemonics. Supports re-voicing content into different learning styles (Standard / Gen-Z / ELI5 / Exam-focused). Streams responses in real time via SSE. JWT + Google OAuth auth with bcrypt hashing.
 
-`React` `Vite` `Tailwind CSS` `FastAPI` `Python` `Gemini API` `SQLite` `Docker` `AWS EB`
+<br/>
 
-[→ Repo](https://github.com/Anmol-06/TutorX)
+[![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=06b6d4)](#)
+[![Vite](https://img.shields.io/badge/Vite-1a0533?style=flat-square&logo=vite&logoColor=a855f7)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-1a0533?style=flat-square&logo=tailwindcss&logoColor=06b6d4)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-1a0533?style=flat-square&logo=fastapi&logoColor=06b6d4)](#)
+[![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)](#)
+[![Gemini](https://img.shields.io/badge/Gemini_API-1a0533?style=flat-square&logo=googlegemini&logoColor=06b6d4)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-1a0533?style=flat-square&logo=sqlite&logoColor=a855f7)](#)
+[![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=06b6d4)](#)
+[![AWS](https://img.shields.io/badge/AWS_EB-1a0533?style=flat-square&logo=amazonaws&logoColor=a855f7)](#)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%86%92-1a0533?style=for-the-badge&logo=github&logoColor=06b6d4&labelColor=1a0533&color=a855f7)](https://github.com/Anmol-06/TutorX)
 
 </td>
 </tr>
@@ -145,9 +165,15 @@ Decomposes syllabi into structured unit → topic → subtopic trees via Gemini.
 
 Full-stack URL shortener for creating clean, shareable short-codes. Built with solid backend routing and a lightweight frontend. Deployed and live on Railway.
 
-`Python` `HTML/CSS/JS` `Railway`
+<br/>
 
-[→ Repo](https://github.com/Anmol-06/linkshortner)
+[![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)](#)
+[![HTML5](https://img.shields.io/badge/HTML/CSS/JS-1a0533?style=flat-square&logo=html5&logoColor=06b6d4)](#)
+[![Railway](https://img.shields.io/badge/Railway-1a0533?style=flat-square&logo=railway&logoColor=a855f7)](#)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%86%92-1a0533?style=for-the-badge&logo=github&logoColor=06b6d4&labelColor=1a0533&color=a855f7)](https://github.com/Anmol-06/linkshortner)
 
 </td>
 <td width="50%" valign="top">
@@ -206,22 +232,56 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 
 ## 🏆 Achievements
 
-### 🎓 Certifications & Coursework
-- 🎓 **Java Data Structures & Algorithms** — Udemy *(Completed)*
-- 🧠 **AI/ML & Deep Learning Bootcamp** — Udemy *(In Progress)*
-- 📐 **Mathematical Foundations of Machine Learning** — NPTEL
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎓 Certifications
+**Deep Learning & Algorithms**
+
+- 🎓 **Java DSA**  
+  [![Completed](https://img.shields.io/badge/Status-Completed-10B981?style=flat-square)](#)  
+  *Udemy Coursework*
+- 🧠 **AI/ML & Deep Learning**  
+  [![In Progress](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)](#)  
+  *Udemy Bootcamp*
+- 📐 **Math Foundations of ML**  
+  [![NPTEL](https://img.shields.io/badge/Issuer-NPTEL-a855f7?style=flat-square)](#)  
+  *NPTEL Certification*
+
+</td>
+<td width="33%" valign="top">
 
 ### 💼 Internship
-- ☁️ **AI Automation & Cloud Computing Intern** — IBM SkillsBuild × BharatCares (AICTE)
-  - *Track: Generative AI & Cloud Computing*
+**Industry Experience**
 
-### 🏁 Competitions & Hackathons
-- 🇮🇳 **Participant** — Smart India Hackathon (SIH) 2026
-- 🛡️ **Participant** — Delhi Police Cybersecurity Hackathon
+- ☁️ **AI & Cloud Engineering**  
+  [![IBM](https://img.shields.io/badge/Partner-IBM_SkillsBuild-06b6d4?style=flat-square)](#)  
+  *IBM SkillsBuild × BharatCares (AICTE)*
+  
+> Track: Generative AI, Cloud Infrastructure & Automation
 
-<br/>
+</td>
+<td width="33%" valign="top">
 
-<sub><font color="#8b83a8">Sergeant-at-Arms, Rotaract Club of BIT Sindri</font></sub>
+### 🏁 Competitions
+**Hackathons & Challenges**
+
+- 🇮🇳 **Smart India Hackathon 2026**  
+  [![Participant](https://img.shields.io/badge/SIH-Participant-a855f7?style=flat-square)](#)  
+  *National Hackathon*
+- 🛡️ **Cybersecurity Hackathon**  
+  [![Delhi Police](https://img.shields.io/badge/Event-Delhi_Police-06b6d4?style=flat-square)](#)  
+  *Security & Systems Challenge*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <br/>
+  [![Rotaract](https://img.shields.io/badge/Leadership-Sergeant--at--Arms_%C2%B7_Rotaract_Club_of_BIT_Sindri-1a0533?style=for-the-badge&logo=rotaryinternational&logoColor=a855f7&color=a855f7)](#)
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:a855f7,100:06b6d4&height=2&width=100%" width="100%"/>
 
