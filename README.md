@@ -1,29 +1,29 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  ANMOL KUMAR GORAIN — GitHub Profile README (Part 1/4)            ║ -->
+<!-- ║  ANMOL KUMAR GORAIN — GitHub Profile README                         ║ -->
 <!-- ║  Design System: Cyberpunk / Neon Terminal                         ║ -->
 <!-- ║  Palette: #0a0118 · #a855f7 · #06b6d4 · #e0d9ff · #8b83a8       ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- SECTION 1 — HERO BANNER                                              -->
+<!-- HERO BANNER BLOCK                                                    -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,25:1a0533,50:a855f7,75:7c3aed,100:06b6d4&height=220&section=header&text=Anmol%20Kumar%20Gorain&fontSize=42&fontColor=e0d9ff&fontAlignY=35&desc=Building%20Intelligent%20Systems&descAlignY=55&descColor=06b6d4&animation=twinkling" width="100%" alt="Header Banner"/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- SECTION 2 — TYPING INTRO                                             -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 <br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- TYPING INTRO                                                         -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=%F0%9F%94%A7+Systems+Engineer+%C2%B7+Automated+Systems+Developer+%C2%B7+Full-Stack+Dev;%F0%9F%8E%93+B.Tech+CSE+%40+BIT+Sindri+%E2%80%94+Class+of+2028;%F0%9F%A7%A0+Computer+Vision+%26+Deep+Learning;%E2%9A%A1+Generative+AI+%2F+Applied+ML+Architectures;%F0%9F%9B%A0%EF%B8%8F+Building+End-to-End+Intelligent+Systems)](https://github.com/Anmol-06)
 
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- SECTION 3 — SOCIAL BADGES                                            -->
+<!-- SOCIAL BADGES                                                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://www.linkedin.com/in/anmol-kumar-gorain/)
@@ -33,11 +33,11 @@
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- SECTION 4 — ABOUT ME                                                 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 ---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ABOUT ME                                                             -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## ⚡ `~/about-me`
 
@@ -65,7 +65,7 @@ I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- PART 2 — TECH ARSENAL                                                -->
+<!-- TECH ARSENAL                                                         -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🛠️ `~/tech-stack`
@@ -101,7 +101,7 @@ I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- PART 2 — FLAGSHIP PROJECTS                                           -->
+<!-- FLAGSHIP PROJECTS                                                    -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🚀 `~/projects`
@@ -174,7 +174,7 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- PART 3 — GITHUB STATS & STREAK                                       -->
+<!-- GITHUB STATS & STREAK                                                -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📊 `~/github-stats`
@@ -203,7 +203,7 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- PART 3 — ACHIEVEMENTS & CERTIFICATIONS                               -->
+<!-- ACHIEVEMENTS & CERTIFICATIONS                                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🏆 `~/achievements`
@@ -227,5 +227,32 @@ Full-stack URL shortener for creating clean, shareable short-codes. Built with s
 
 ---
 
-<!-- ━━━━━━━━━━━  END OF PART 3 — Reserved for Part 4 (Beyond Code & Footer)  ━━━━━━━━━━━ -->
-<!-- PART 4: 🎨 Beyond Code · 🌐 Connect · Footer Banner                                   -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- BEYOND CODE                                                          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🎬 `~/beyond-code`
+
+> 🎞️ **Video Editing & Media Creation**
+>
+> Outside of systems engineering and machine learning, I edit video on the side. I spent about three months freelancing video editing work for **Uni Discovery**, producing visual content and refining video motion workflows alongside my software projects.
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- CLOSING & FOOTER                                                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anmol-06&color=a855f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+*“Building intelligent systems from first principles — understanding why, not just what.”*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:7c3aed,50:a855f7,75:1a0533,100:0a0118&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner"/>
+
+</div>
