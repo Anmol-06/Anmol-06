@@ -64,7 +64,124 @@ I'm Anmol — a Computer Science undergrad at BIT Sindri who splits time between
 
 ---
 
-<!-- ━━━━━━━━━━━  END OF PART 1 — Sections below reserved for Parts 2-4  ━━━━━━━━━━━ -->
-<!-- PART 2: 🛠️ Tech Arsenal                                                         -->
-<!-- PART 3: 🚀 Flagship Projects                                                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- PART 2 — TECH ARSENAL                                                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🛠️ `~/tech-stack`
+
+<div align="center">
+
+**`// Languages`**
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,bash&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+**`// Frontend`**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+**`// Backend`**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,flask&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+**`// AI · ML`**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+**`// Databases`**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+**`// DevOps · Infra`**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,aws&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- PART 2 — FLAGSHIP PROJECTS                                           -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🚀 `~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Devaster &nbsp;`·` &nbsp;⭐ *Favorite*
+**Telegram-Based AI RMM**
+
+> Turn your Telegram chat into a remote console for Windows, macOS, and Linux devices.
+
+Cross-platform Remote Monitoring & Management bot with real-time telemetry — CPU/GPU thermals, RAM, disk I/O, battery health, network stats. Secure 6-digit multi-device pairing with OS-level persistence (`systemd` / `launchd`). Free AI APIs (Gemini / Groq) translate raw hardware data into natural-language insights. Remote command execution — kill processes, find/delete files — all via chat.
+
+`Python` `Gemini API` `Groq API` `Telegram Bot API` `Shell`
+
+[→ Repo](https://github.com/Anmol-06/Devaster---Device-Master)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 TutorX &nbsp;`·` &nbsp;⭐ *Favorite*
+**AI-Powered Adaptive Learning Platform**
+
+> Full-stack AI educational web app delivering personalized, textbook-depth lessons on any topic.
+
+Decomposes syllabi into structured unit → topic → subtopic trees via Gemini. Generates deep lesson content — explanations, LaTeX equations, Mermaid diagrams, quizzes, mnemonics. Supports re-voicing content into different learning styles (Standard / Gen-Z / ELI5 / Exam-focused). Streams responses in real time via SSE. JWT + Google OAuth auth with bcrypt hashing.
+
+`React` `Vite` `Tailwind CSS` `FastAPI` `Python` `Gemini API` `SQLite` `Docker` `AWS EB`
+
+[→ Repo](https://github.com/Anmol-06/TutorX)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Link Shortener
+**Full-Stack URL Shortener Web App**
+
+> Optimized, trackable short-codes with strong backend routing logic — deployed on Railway.
+
+Full-stack URL shortener for creating clean, shareable short-codes. Built with solid backend routing and a lightweight frontend. Deployed and live on Railway.
+
+`Python` `HTML/CSS/JS` `Railway`
+
+[→ Repo](https://github.com/Anmol-06/linkshortner)
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🗂️ More Projects (click to expand)</b></summary>
+
+<br/>
+
+| Project | Description | Stack |
+|---|---|---|
+| *(coming soon)* | — | — |
+
+</details>
+
+---
+
+<!-- ━━━━━━━━━━━  END OF PART 2 — Sections below reserved for Parts 3-4  ━━━━━━━━━━━ -->
 <!-- PART 4: 📊 GitHub Stats · 🏆 Highlights · Footer                                 -->
