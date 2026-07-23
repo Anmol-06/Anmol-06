@@ -58,11 +58,12 @@ Currently focused on:
 
 <br/>
 
-> 💡 **Background & Philosophy**
-> 
-> I'm Anmol — a Computer Science undergrad at **BIT Sindri** who splits time between training deep learning models and wiring together the full-stack systems that serve them. 
-> 
-> My work sits at the intersection of **computer vision**, **generative AI**, and **production-grade automation** — I care less about chasing the latest framework and more about understanding *why* a system works so I can make it work better. When I'm not buried in code, I'm usually breaking down ML papers or figuring out how to squeeze one more FPS out of an inference pipeline from Bokaro Steel City.
+<div align="center">
+  <i>
+  I'm Anmol — a Computer Science undergrad at <b>BIT Sindri</b> who splits time between training deep learning models and wiring together the full-stack systems that serve them.<br/><br/>
+  My work sits at the intersection of <b>computer vision</b>, <b>generative AI</b>, and <b>production-grade automation</b>. When I'm not buried in code, I'm usually breaking down ML papers or figuring out how to squeeze one more FPS out of an inference pipeline from Bokaro Steel City.
+  </i>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:a855f7,100:06b6d4&height=2&width=100%" width="100%"/>
 
@@ -114,10 +115,9 @@ Currently focused on:
 
 <br/>
 
-<img src="https://img.shields.io/badge/🤖_DEVASTER-AI_RMM_System-a855f7?style=for-the-badge&logo=telegram&logoColor=fff" height="28"/>
-<img src="https://img.shields.io/badge/%E2%AD%90_FAVORITE-1a0533?style=for-the-badge&logoColor=a855f7&color=a855f7" height="28"/>
-
-> *Cross-Platform Telegram Remote Console for Windows, macOS & Linux*
+### 🤖 DEVASTER
+*AI RMM System & Telegram Remote Console*  
+⭐ **Favorite Project**
 
 - 🖥️ **Hardware Telemetry**: Real-time CPU/GPU thermals, RAM, disk I/O, battery & network stats.
 - 🔐 **OS Persistence**: Secure 6-digit device pairing with `systemd` / `launchd` daemon integration.
@@ -140,10 +140,9 @@ Currently focused on:
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_TUTORX-AI_EdTech_App-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=fff" height="28"/>
-<img src="https://img.shields.io/badge/%E2%AD%90_FAVORITE-1a0533?style=for-the-badge&logoColor=a855f7&color=a855f7" height="28"/>
-
-> *Full-Stack Adaptive Learning Platform with Real-Time Lesson Streaming*
+### 🎓 TUTORX
+*AI EdTech App & Adaptive Learning Platform*  
+⭐ **Favorite Project**
 
 - 🌳 **Syllabus Decomposition**: Gemini decomposes complex topics into structured unit → subtopic learning trees.
 - 📚 **Rich Content Stream**: Real-time SSE streaming of LaTeX equations, Mermaid diagrams, quizzes & mnemonics.
@@ -172,9 +171,8 @@ Currently focused on:
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔗_LINK_SHORTENER-Web_Utility-a855f7?style=for-the-badge&logo=railway&logoColor=fff" height="28"/>
-
-> *Full-Stack URL Shortener Web Application Live on Railway*
+### 🔗 LINK SHORTENER
+*Full-Stack URL Shortener Web Application*
 
 - ⚡ **Optimized Short-Codes**: Clean custom short-code generation with fast backend routing logic.
 - 📊 **Trackable & Production-Ready**: Lightweight frontend paired with solid Python backend routing, live on Railway.
@@ -290,12 +288,19 @@ Currently focused on:
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="3" valign="top">
 
-<p align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Leadership-Sergeant--at--Arms_%C2%B7_Rotaract_Club_of_BIT_Sindri-1a0533?style=for-the-badge&logo=rotaryinternational&logoColor=a855f7&color=a855f7" alt="Rotaract Leadership"/>
-</p>
+### 🤝 Community Leadership
+**Rotaract Club of BIT Sindri**
+
+- 🏅 **Sergeant-at-Arms**  
+  [![Leadership](https://img.shields.io/badge/Leadership-Sergeant--at--Arms-a855f7?style=flat-square)](#)  
+  *Maintaining order and discipline across 150+ members*
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:a855f7,100:06b6d4&height=2&width=100%" width="100%"/>
 
