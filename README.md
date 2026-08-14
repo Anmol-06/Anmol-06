@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://www.linkedin.com/in/anmol-kumar-gorain/)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0533?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:anmolkumargorain06@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1a0533?style=for-the-badge&logo=leetcode&logoColor=06b6d4)](https://leetcode.com/u/Anmol-06/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=for-the-badge&logo=googlechrome&logoColor=8b83a8)](https://anmol-06.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=for-the-badge&logo=googlechrome&logoColor=a855f7)](https://anmol-06.github.io/)
 
 </div>
 
