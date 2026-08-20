@@ -189,7 +189,23 @@ Currently focused on:
 </td>
 <td width="50%" valign="top">
 
-&nbsp;
+<br/>
+
+### 🔗 LINK SHORTENER
+*Full-Stack URL Shortener Web Application*
+
+- ⚡ **Optimized Short-Codes**: Clean custom short-code generation with fast backend routing logic.
+- 📊 **Trackable & Production-Ready**: Lightweight frontend paired with solid Python backend routing, live on Railway.
+
+<br/>
+
+[![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)](#)
+[![HTML5](https://img.shields.io/badge/HTML/CSS/JS-1a0533?style=flat-square&logo=html5&logoColor=06b6d4)](#)
+[![Railway](https://img.shields.io/badge/Railway-1a0533?style=flat-square&logo=railway&logoColor=a855f7)](#)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%86%92-1a0533?style=for-the-badge&logo=github&logoColor=06b6d4&labelColor=1a0533&color=a855f7)](https://github.com/Anmol-06/linkshortner)
 
 </td>
 </tr>
