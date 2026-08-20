@@ -191,21 +191,27 @@ Currently focused on:
 
 <br/>
 
-### 🔗 LINK SHORTENER
-*Full-Stack URL Shortener Web Application*
+### 🧠 HYPERION
+*Voice AI Assistant & Desktop Automation*
+⭐ **Favorite Project**
 
-- ⚡ **Optimized Short-Codes**: Clean custom short-code generation with fast backend routing logic.
-- 📊 **Trackable & Production-Ready**: Lightweight frontend paired with solid Python backend routing, live on Railway.
+-🎙️ **Real-Time Voice AI**: Gemini Live-powered bidirectional audio streaming for natural, low-latency conversations.
+-🧠 **Persistent AI Memory**: Vector-based long-term memory for preferences, identity, and contextual facts across sessions.
+-🌐 **Autonomous Browser Control**: Playwright-powered web automation for searching, navigating, clicking, scrolling, and form interactions.
+-👁️ **Multimodal Awareness**: Combines screen capture, webcam vision, and desktop telemetry to understand and interact with the environment.
+-🔐 **Secure Agentic Actions**: Fail-closed confirmation gates protect high-impact operations like file deletion, emails, and code execution.
 
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)](#)
-[![HTML5](https://img.shields.io/badge/HTML/CSS/JS-1a0533?style=flat-square&logo=html5&logoColor=06b6d4)](#)
-[![Railway](https://img.shields.io/badge/Railway-1a0533?style=flat-square&logo=railway&logoColor=a855f7)](#)
+[![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=06b6d4)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-1a0533?style=flat-square&logo=fastapi&logoColor=06b6d4)](#)
+[![Gemini](https://img.shields.io/badge/Gemini_API-1a0533?style=flat-square&logo=googlegemini&logoColor=06b6d4)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-1a0533?style=flat-square&logo=sqlite&logoColor=a855f7)](#)
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository_%E2%86%92-1a0533?style=for-the-badge&logo=github&logoColor=06b6d4&labelColor=1a0533&color=a855f7)](https://github.com/Anmol-06/linkshortner)
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%86%92-1a0533?style=for-the-badge&logo=github&logoColor=06b6d4&labelColor=1a0533&color=a855f7)](https://github.com/Anmol-06/Hyperion)
 
 </td>
 </tr>
