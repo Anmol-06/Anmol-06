@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=%F0%9F%94%A7+Systems+Engineer+%C2%B7+Automated+Systems+Developer+%C2%B7+Full-Stack+Dev;%F0%9F%8E%93+B.Tech+CSE+%40+BIT+Sindri+%E2%80%94+Class+of+2028;%F0%9F%A7%A0+Computer+Vision+%26+Deep+Learning;%E2%9A%A1+Generative+AI+%2F+Applied+ML+Architectures;%F0%9F%9B%A0%EF%B8%8F+Building+End-to-End+Intelligent+Systems)](https://github.com/Anmol-06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=%F0%9F%94%A7+AI+%2F+GenAI+Application+Developer;%F0%9F%8E%93+B.Tech+CSE+%40+BIT+Sindri+%E2%80%94+Class+of+2028;%F0%9F%A7%A0+Generative+AI+%26+Prompt+Engineering;%E2%9A%A1+Agentic+AI+Workflows+%26+LLM+APIs;%F0%9F%9B%A0%EF%B8%8F+Cloud+Deployment+%28AWS%2C+Docker%29)](https://github.com/Anmol-06)
 
 <br/>
 
