@@ -279,7 +279,7 @@ Currently focused on:
   [![In Progress](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)](#)  
   *Udemy Bootcamp*
 - 📐 **Math Foundations of ML**  
-  [![NPTEL-In Progress](https://img.shields.io/badge/Issuer-NPTEL-a855f7?style=flat-square)](#)  
+  [![NPTEL-In Progress](https://img.shields.io/badge/Issuer-NPTEL-In_Progress-a855f7?style=flat-square)](#)  
   *NPTEL Certification*
 
 </td>
@@ -304,7 +304,7 @@ Currently focused on:
   [![Participant](https://img.shields.io/badge/SIH-Participant-a855f7?style=flat-square)](#)  
   *National Hackathon*
 - 🛡️ **Cybersecurity Hackathon - Delhi Police**  
-  [![Participant](https://img.shields.io/badge/Event-Delhi_Police-06b6d4?style=flat-square)](#)  
+  [![Participant](https://img.shields.io/badge/Event-Participant-06b6d4?style=flat-square)](#)  
   *Security & Systems Challenge*
 
 </td>
