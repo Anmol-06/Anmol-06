@@ -195,11 +195,11 @@ Currently focused on:
 *Voice AI Assistant & Desktop Automation*
 ⭐ **Favorite Project**
 
--🎙️ **Real-Time Voice AI**: Gemini Live-powered bidirectional audio streaming for natural, low-latency conversations.
--🧠 **Persistent AI Memory**: Vector-based long-term memory for preferences, identity, and contextual facts across sessions.
--🌐 **Autonomous Browser Control**: Playwright-powered web automation for searching, navigating, clicking, scrolling, and form interactions.
--👁️ **Multimodal Awareness**: Combines screen capture, webcam vision, and desktop telemetry to understand and interact with the environment.
--🔐 **Secure Agentic Actions**: Fail-closed confirmation gates protect high-impact operations like file deletion, emails, and code execution.
+- 🎙️ **Real-Time Voice AI**: Gemini Live-powered natural voice conversations.
+- 🧠 **Persistent AI Memory**: Remembers context, preferences, and past interactions.
+- 🌐 **Autonomous Browser Control**: Autonomous web navigation and task execution via Playwright.
+- 👁️ **Multimodal Awareness**: Screen and webcam awareness for contextual interaction.
+- 🔐 **Secure Agentic Actions**: Confirmation gates for sensitive agentic operations.
 
 <br/>
 
