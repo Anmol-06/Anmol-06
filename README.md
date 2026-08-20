@@ -279,7 +279,7 @@ Currently focused on:
   [![In Progress](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)](#)  
   *Udemy Bootcamp*
 - 📐 **Math Foundations of ML**  
-  [![NPTEL-In Progress](https://img.shields.io/badge/Issuer-NPTEL-In_Progress-a855f7?style=flat-square)](#)  
+  [![NPTEL-In Progress](https://img.shields.io/badge/Status-In_Progress-a855f7?style=flat-square)](#)  
   *NPTEL Certification*
 
 </td>
