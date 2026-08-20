@@ -38,7 +38,7 @@
 
 ```text
 Name:       Anmol Kumar Gorain
-Role:       Systems Engineer & Automated Systems Developer
+Role:       AI/Gen AI Application Developer
 Education:  B.Tech CSE, BIT Sindri (Class of 2028)
 Location:   Bokaro Steel City, Jharkhand, India 🇮🇳
 
@@ -60,8 +60,7 @@ Currently focused on:
 
 <div align="center">
   <i>
-  I'm Anmol — a Computer Science undergrad at <b>BIT Sindri</b> who splits time between training deep learning models and wiring together the full-stack systems that serve them.<br/><br/>
-  My work sits at the intersection of <b>computer vision</b>, <b>generative AI</b>, and <b>production-grade automation</b>. When I'm not buried in code, I'm usually breaking down ML papers or figuring out how to squeeze one more FPS out of an inference pipeline from Bokaro Steel City.
+  I'm Anmol — a Computer Science undergrad at <b>BIT Sindri</b> who splits time between training deep learning models and wiring together the full-stack systems that serve them.<br/><br/>My work sits at the intersection of <b>computer vision</b>, <b>generative AI</b>, and <b>production-grade automation</b>. When I'm not buried in code, I'm usually breaking down ML papers or figuring out how to squeeze one more FPS out of an inference pipeline from Bokaro Steel City.
   </i>
 </div>
 
